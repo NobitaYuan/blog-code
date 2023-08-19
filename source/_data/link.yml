@@ -1,0 +1,22 @@
+- class_name: 1.技术支持
+  class_desc: 本网站的搭建由以下开源作者提供技术支持
+  link_list: 
+    - name: Hexo 
+      link: https://hexo.io/zh-cn/
+      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+      descr: 快速、简洁且高效的博客框架
+      siteshot: https://source.fomal.cc/siteshot/hexo.io.jpg
+      
+- class_name: 2.友情链接
+  class_desc: 一些好友~
+  link_list:
+    - name: Fomalhaut🥝
+      link: https://fomal.cc/
+      avatar: https://source.fomal.cc/siteshot/www.fomal.cn.jpg
+      descr: Future is now 🍭🍭🍭
+      siteshot: https://source.fomal.cc/siteshot/www.fomal.cn.jpg
+    - name: 九月
+      link: https://www.qqiwu.cn/
+      avatar: https://q3.qlogo.cn/g?b=sdk&k=JDdOBEgZNGId4COwnUGSIw&s=640
+      descr: 我命令你，喜欢我！
+      siteshot: https://blog.qqiwu.cn/img/gybz.jpg
